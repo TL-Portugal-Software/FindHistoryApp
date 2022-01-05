@@ -2,4 +2,7 @@
     <string name="app_name">FindHistory</string>
     <string name="todo">TODO</string>
     <string name="welcome">Welcome</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="regist">Sign up</string>
 </resources>
